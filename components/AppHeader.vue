@@ -45,15 +45,8 @@
 </template>
 
 <script>
-import { BIcon, BIconArrowUp, BIconArrowDown, BIconX } from 'bootstrap-vue'
 export default {
   name: 'AppHeader',
-  components: {
-    BIcon,
-    BIconArrowUp,
-    BIconArrowDown,
-    BIconX,
-  },
   data() {
     return {
       topHeaderDisplay: true,
