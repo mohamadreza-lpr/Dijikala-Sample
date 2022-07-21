@@ -1,4 +1,4 @@
-# test-ui2
+# digikala first page UI with NUXT JS
 
 ## Build Setup
 
